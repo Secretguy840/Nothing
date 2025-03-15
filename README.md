@@ -1,4 +1,6 @@
-# UntilEverything ✨
+# Nothing ✨
+
+NOT-A-THING
 
 ## Programs for Different Frameworks and Trending Web Technologies
 
@@ -82,13 +84,13 @@ Programming paradigms refer to different styles or approaches to programming, ea
 </p>
 </div>
 
-## UntilEverything - (Formally WebDev)
+## Nothing - (Formally WebDev)
 
 - *Lets Learn Something Clear and Different Today*.
 - Examples for Various Frameworks and Programming Languages.
 - Web Development Projects and Webpages.
 - Happy Coding. 🤗
-- &copy; Copyright by [Vedansh](https://github.com/offensive-vk/) 2024. All Right Reserved.
+- &copy; Copyright by [SHIVANSH](https://github.com/Secretguy840) 2025. All Right Reserved.
 
 ***
 
